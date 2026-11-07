@@ -16,7 +16,6 @@ while True:
         break
     else:
         show_message('Error', 'Please re-enter the directory of the files `ProductData.xlsx`, `MasterInvoice.pdf`, `Order1.xlsx`, `Order2.xlsx`, `Order3.xlsx`, and `Order4.xlsx` files.')
-    
 
 print(directory)
 # INSERT ANSWER FOR QUESTION 2 HERE
